@@ -1,11 +1,16 @@
 _repo: Woman-s-Voice-b-An-anthology_75366
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75366-h/images/cover.jpg
 creator:
   editor:
     agent_name: Conger-Kaneko, Josephine
     gutenberg_agent_id: '57968'
     url: http://www.gutenberg.org/2009/agents/57968
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75366#Woman-s-Voice-b-An-anthology
 gutenberg_issued: '2025-02-13'
 gutenberg_type: Text
 identifiers:
